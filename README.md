@@ -1,7 +1,7 @@
 ## Welcome to Junior Damacena's page
 
 
-I'm an experienced Mobile Developer and I've working with Xamarin, Xamarin.Forms and native Android development (with both, Java and Kotlin). Take a look of some of my work in my [Developer Page](https://play.google.com/store/apps/dev?id=6709569533247764689) at Google Play and my [Github](https://github.com/jdamacena). You can also find my on [LinkedIn](https://play.google.com/store/apps/dev?id=6709569533247764689).
+I'm an experienced Mobile Developer and I've been working with mobile development for some years now, especifically with Xamarin, Xamarin.Forms and native Android. Take a look of some of my work in my [Developer Page](https://play.google.com/store/apps/dev?id=6709569533247764689) at Google Play and my [Github](https://github.com/jdamacena). You can also find me on [LinkedIn](https://play.google.com/store/apps/dev?id=6709569533247764689).
 
 
 - My [Developer Story](https://stackoverflow.com/story/junior-damacena) at Stackoverflow;
